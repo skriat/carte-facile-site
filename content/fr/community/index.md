@@ -11,8 +11,7 @@ slugOverride: communaute
 
 ## Espaces de discussions
 
-*Détails à venir*
-
+Discuter avec notre équipe  sur :  <a href="https://forum.geocommuns.fr">le Forum des Géocommuns</a> dans la section Carte Facile ou sur la <a href="https://www.expertises-territoires.fr/jcms/pl1_686327/fr/suivre-les-actualites-et-avancees-de-carte-facile?displayResultPage=true&liveFormId=pl1_686327&portal=pl1_557493">communauté Géoplateforme de l'IGN </a>
 <br>
 
 ---
